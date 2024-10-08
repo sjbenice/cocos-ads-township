@@ -1,0 +1,289 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10",
+  "files": [],
+  "subMetas": {
+    "86906": {
+      "importer": "gltf-mesh",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@86906",
+      "displayName": "",
+      "id": "86906",
+      "name": "truck_03.002.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 376
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6506": {
+      "importer": "gltf-mesh",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@e6506",
+      "displayName": "",
+      "id": "e6506",
+      "name": "truck_03.003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 490
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee607": {
+      "importer": "gltf-mesh",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@ee607",
+      "displayName": "",
+      "id": "ee607",
+      "name": "truck_03.001.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 236
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6eae4": {
+      "importer": "gltf-mesh",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@6eae4",
+      "displayName": "",
+      "id": "6eae4",
+      "name": "truck_03.004.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 376
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "94572abd-dbce-43ab-90cc-d75931c11c10@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55cbd": {
+      "importer": "gltf-material",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@55cbd",
+      "displayName": "",
+      "id": "55cbd",
+      "name": "All_atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0498": {
+      "importer": "gltf-scene",
+      "uuid": "94572abd-dbce-43ab-90cc-d75931c11c10@c0498",
+      "displayName": "",
+      "id": "c0498",
+      "name": "truck.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "94572abd-dbce-43ab-90cc-d75931c11c10@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "94572abd-dbce-43ab-90cc-d75931c11c10@c0498",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "94572abd-dbce-43ab-90cc-d75931c11c10@e6506",
+        "94572abd-dbce-43ab-90cc-d75931c11c10@ee607",
+        "94572abd-dbce-43ab-90cc-d75931c11c10@86906",
+        "94572abd-dbce-43ab-90cc-d75931c11c10@6eae4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "94572abd-dbce-43ab-90cc-d75931c11c10@7d6ab"
+      ],
+      "materials": [
+        "94572abd-dbce-43ab-90cc-d75931c11c10@55cbd"
+      ],
+      "scenes": [
+        "94572abd-dbce-43ab-90cc-d75931c11c10@c0498"
+      ]
+    },
+    "materials": {
+      "94572abd-dbce-43ab-90cc-d75931c11c10@55cbd": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 2,
+            "USE_ALBEDO_MAP": true,
+            "HAS_EXPORTED_METALLIC": true
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {
+              "cullMode": 0
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "ab5e41f0-c4b3-4f7f-b5f7-b29f65461611@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 74,
+              "g": 77,
+              "b": 92,
+              "a": 255
+            },
+            "albedoScale": 0.7,
+            "shininessExponent": 2,
+            "transparencyFactor": 0
+          },
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

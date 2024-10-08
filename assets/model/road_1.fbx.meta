@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30",
+  "files": [],
+  "subMetas": {
+    "12682": {
+      "importer": "gltf-scene",
+      "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@12682",
+      "displayName": "",
+      "id": "12682",
+      "name": "road_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1084": {
+      "importer": "gltf-mesh",
+      "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@c1084",
+      "displayName": "",
+      "id": "c1084",
+      "name": "Plane.004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 94
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55cbd": {
+      "importer": "gltf-material",
+      "uuid": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@55cbd",
+      "displayName": "",
+      "id": "55cbd",
+      "name": "All_atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@12682",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@c1084"
+      ],
+      "skeletons": [],
+      "textures": [
+        "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@7d6ab"
+      ],
+      "materials": [
+        "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@55cbd"
+      ],
+      "scenes": [
+        "80b4e38d-0625-4a91-b6c4-cd2df9b5ba30@12682"
+      ]
+    }
+  }
+}

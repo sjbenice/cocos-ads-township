@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "25ecac5d-b146-4735-b3f5-d3842a9d1fdd",
+  "files": [],
+  "subMetas": {
+    "2e7eb": {
+      "importer": "gltf-mesh",
+      "uuid": "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@2e7eb",
+      "displayName": "",
+      "id": "2e7eb",
+      "name": "Cube.008.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 92
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9549": {
+      "importer": "gltf-material",
+      "uuid": "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@a9549",
+      "displayName": "",
+      "id": "a9549",
+      "name": "Material.003.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f4b3": {
+      "importer": "gltf-scene",
+      "uuid": "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@6f4b3",
+      "displayName": "",
+      "id": "6f4b3",
+      "name": "Flat_Button_square.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@6f4b3",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@2e7eb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@a9549"
+      ],
+      "scenes": [
+        "25ecac5d-b146-4735-b3f5-d3842a9d1fdd@6f4b3"
+      ]
+    }
+  }
+}
